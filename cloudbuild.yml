@@ -1,5 +1,5 @@
 steps:
-  - name: 'gcr.io/cloud-builders/gcloud'
+  - name: 'ubuntu'
     args: ['echo', 'Cloud Build trigger executed successfully!']
 
 options:
